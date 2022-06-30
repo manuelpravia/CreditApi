@@ -18,7 +18,7 @@ import javax.validation.Valid;
 
 @RequiredArgsConstructor
 @RestController
-@RequestMapping("api/credits")
+@RequestMapping("credits")
 public class CreditApi {
 
     @Autowired
